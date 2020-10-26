@@ -1,3 +1,6 @@
+This is my project site, I used a template from HTML 5UP to get started then heavily modified it to fit my need keeping the original theme, and bending the rest of it to my purposes.
+
+=====From HTML 5UP=====
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
